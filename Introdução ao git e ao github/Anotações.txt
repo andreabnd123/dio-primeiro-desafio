@@ -1,0 +1,6 @@
+Link para download do Git: https://git-for-windowns.github.io/
+Primeiros passos 
+configurações
+git config --global user.name "[nome]"
+git config --global user.email "[endereço de email]"
+
